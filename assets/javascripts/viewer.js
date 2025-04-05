@@ -1,11 +1,11 @@
 (function () {
   // TODO edit
-  const baseUrl = '/scannedImgViewer';
+  const baseUrl = '/1925ChapHangKoanKian';
   const dataFolderPath = '/chuliau';
-  const dataNamePrefix = '/TJTST1_';
+  const dataNamePrefix = '/1925ChapHangKoanKian_Page_';
   const dataNameNumberCount = 3;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 170;
 
   let imgSources = [];
   const imgSourcesMin = 1;
